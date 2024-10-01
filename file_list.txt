@@ -1,0 +1,11 @@
+README.md
+file_list.txt
+main.py
+new_folder
+new_words.txt
+newfile.txt
+test1.txt
+test2.txt
+test3.txt
+test4.txt
+test5.txt
