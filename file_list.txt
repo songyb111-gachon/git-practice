@@ -2,13 +2,9 @@ README.md
 drone_camera.py
 drone_control.py
 drone_control2.py
+example.txt
 file_list.txt
 main.py
 new_folder
 new_words.txt
 newfile.txt
-test1.txt
-test2.txt
-test3.txt
-test4.txt
-test5.txt
